@@ -58,6 +58,6 @@ Hi, I'm Daniil. I love hacking things to see how they work, write custom scripts
 
 <div>
 
-![Snake Gif](https://github.com/sh4man4ik/sh4man4ik/blob/output/github-snake-dark.svg)
+![Snake Gif](https://github.com/sh4man4ik/AboutMe/blob/output/github-snake-dark.svg)
 
 </div>
