@@ -1,0 +1,63 @@
+## 👨‍💻 Security-Focused Developer
+
+Hi, I'm Daniil. I love hacking things to see how they work, write custom scripts, and build modern web apps to turn my tools into products. I just love finding vulnerabilities and creating smart solutions around them.
+
+## 💬 Contact Me
+
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335)](mailto:daniil.ignatjev@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&labelColor=black&logo=telegram&logoColor=2CA5E0)](https://t.me/sh4man4ikk)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&labelColor=black&logo=discord&logoColor=5865F2)](https://discord.com/users/1263492247681237012)
+
+## 🤗 Support Me
+
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy_Me_a_Coffee-FFDD00?style=for-the-badge&labelColor=black&logo=buymeacoffee&logoColor=FFDD00)](https://buymeacoffee.com/sh4man4ik)
+
+## 👀 Content Making
+
+[![Habr](https://img.shields.io/badge/-Habr-000000?style=for-the-badge&logo=habr&logoColor=65a3be&color=65a3be&labelColor=000000)](https://habr.com/users/sh4man)
+[![Telegram Channel](https://img.shields.io/badge/-Telegram_Channel-2CA5E0?style=for-the-badge&labelColor=black&logo=telegram&logoColor=2CA5E0)](https://t.me/sh4man_channel)
+[![YouTube Channel](https://img.shields.io/badge/-YouTube_Channel-FF0000?style=for-the-badge&labelColor=black&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@sh4man4ik)
+[![TikTok Channel](https://img.shields.io/badge/-TikTok_Channel-ff0050?style=for-the-badge&labelColor=black&logo=tiktok&logoColor=ff0050)](https://www.tiktok.com/@sh4man4ik)
+
+## 💪 Where I Practice
+
+[![OpenSecurityTraining2](https://img.shields.io/badge/OpenSecurityTraining2-1E90FF?style=for-the-badge&labelColor=black&logo=bigcartel&logoColor=1E90FF)](https://apps.p.ost2.fyi/profile/u/sh4man)
+[![pwn.college](https://img.shields.io/badge/-pwn.college-fec526?style=for-the-badge&labelColor=black&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiNmZWM1MjYiLz48L3N2Zz4=)](https://pwn.college/hacker/sh4man)
+[![Crackmes.one](https://img.shields.io/badge/-Crackmes.one-9acc13?style=for-the-badge&labelColor=black&logo=Coursera&logoColor=9acc13)](https://crackmes.one/user/sh4man)
+[![PortSwigger](https://img.shields.io/badge/-PortSwigger-FF6633?style=for-the-badge&labelColor=black&logo=portswigger&logoColor=FF6633)](https://portswigger.net/web-security)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-f89f1b?style=for-the-badge&labelColor=black&logo=leetcode&logoColor=f89f1b)](https://leetcode.com/u/sh4manik)
+[![Devpost](https://img.shields.io/badge/-Devpost-004257?style=for-the-badge&labelColor=black&logo=devpost&logoColor=004257)](https://devpost.com/sh4man)
+
+## 🛠️ Tech Stack
+
+### Hacking
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=00599C)
+![CMake](https://img.shields.io/badge/-CMake-CC0000?style=for-the-badge&labelColor=black&logo=cmake&logoColor=CC0000)
+![Assembly_MASM](https://img.shields.io/badge/-Assembly_MASM-808080?style=for-the-badge&labelColor=black&logo=assemblyscript&logoColor=808080)
+![IDA](https://img.shields.io/badge/-IDA-6495ED?style=for-the-badge&labelColor=black&logo=awesomelists&logoColor=6495ED)
+![Ghidra](https://img.shields.io/badge/-Ghidra-e02d2c?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=e02d2c)
+![x64dbg](https://img.shields.io/badge/-x64dbg-313131?style=for-the-badge&labelColor=black&logo=openbugbounty&logoColor=313131)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&labelColor=black&logo=burpsuite&logoColor=FF6633)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=3C873A)
+![Express](https://img.shields.io/badge/-Express-FFFFFF?style=for-the-badge&labelColor=black&logo=express&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)
+![Vitest](https://img.shields.io/badge/-Vitest-1EF389?style=for-the-badge&labelColor=black&logo=vitest&logoColor=1EF389)
+
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=06B6D4)
+![Vike](https://img.shields.io/badge/-Vike-9B6BFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=9B6BFF)
+
+## 🐍 Snake
+
+<div>
+
+![Snake Gif](https://github.com/sh4man4ik/sh4man4ik/blob/output/github-snake-dark.svg)
+
+</div>
