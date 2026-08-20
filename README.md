@@ -1,23 +1,12 @@
-## 👨‍💻 Security-Focused Developer
-
-Hi, I'm Daniil. I love hacking things to see how they work, write custom scripts, and build modern web apps to turn my tools into products. I just love finding vulnerabilities and creating smart solutions around them.
-
 ## 💬 Contact Me
 
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335)](mailto:daniil.ignatjev@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&labelColor=black&logo=telegram&logoColor=2CA5E0)](https://t.me/sh4man4ikk)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&labelColor=black&logo=discord&logoColor=5865F2)](https://discord.com/users/1263492247681237012)
 
-## 🤗 Support Me
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy_Me_a_Coffee-FFDD00?style=for-the-badge&labelColor=black&logo=buymeacoffee&logoColor=FFDD00)](https://buymeacoffee.com/sh4man4ik)
-
 ## 👀 Content Making
 
 [![Habr](https://img.shields.io/badge/-Habr-000000?style=for-the-badge&logo=habr&logoColor=65a3be&color=65a3be&labelColor=000000)](https://habr.com/users/sh4man)
-[![Telegram Channel](https://img.shields.io/badge/-Telegram_Channel-2CA5E0?style=for-the-badge&labelColor=black&logo=telegram&logoColor=2CA5E0)](https://t.me/sh4man_channel)
-[![YouTube Channel](https://img.shields.io/badge/-YouTube_Channel-FF0000?style=for-the-badge&labelColor=black&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@sh4man4ik)
-[![TikTok Channel](https://img.shields.io/badge/-TikTok_Channel-ff0050?style=for-the-badge&labelColor=black&logo=tiktok&logoColor=ff0050)](https://www.tiktok.com/@sh4man4ik)
 
 ## 💪 Where I Practice
 
